@@ -1,0 +1,23 @@
+{
+  "name": "multiplayerminesweeperjs",
+  "version": "0.0.1",
+  "description": "Minesweeper Multiplayer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Maxomann/MultiplayerMinesweeperJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxomann/MultiplayerMinesweeperJS/issues"
+  },
+  "homepage": "https://github.com/Maxomann/MultiplayerMinesweeperJS#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
